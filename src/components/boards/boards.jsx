@@ -8,7 +8,7 @@ function Boards() {
           <ul>
             <h3>cultura Asiáticas</h3>
             <li>
-              <a href="https://www.w3schools.com">Anime & Manga</a>
+              <a href="'../page/anime">Anime & Manga</a>
             </li>
             <li>
               <a href="https://www.w3schools.com">cultura otaku</a>

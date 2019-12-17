@@ -1,5 +1,10 @@
 import React from "react";
 
-export const TablonPage = () => {
-  return <div>hola</div>;
+export const TablonPage = ({ imagen }) => {
+  return (
+    <div>
+      <img src={imagen} alt="" />
+      hola
+    </div>
+  );
 };

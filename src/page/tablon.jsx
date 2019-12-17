@@ -1,9 +1,9 @@
 import React from "react";
 
-export const HomePage = () => {
+export const TablonPage = () => {
     return (
         <div>
-
+            hola
         </div>
     );
 };

@@ -77,7 +77,7 @@ function Boards() {
               <a href="/SexyGirls">Sexy Girls</a>
             </li>
             <li>
-              <a href="hentai">Hentai</a>
+              <a href="/hentai">Hentai</a>
             </li>
             <li>
               <a href="/ecchi">ecchi</a>
@@ -89,7 +89,7 @@ function Boards() {
               <a href="/yuri">Yuri</a>
             </li>
             <li>
-              <a href="yaoi">Yaoi</a>
+              <a href="/yaoi">Yaoi</a>
             </li>
           </ul>
         </div>

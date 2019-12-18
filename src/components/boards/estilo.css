@@ -1,5 +1,11 @@
-.p1 {
+.Boards {
+  border: solid 4px #6295ed;
+  height: 300px;
+  width: 600px;
+  margin-top: 80px;
+  margin-left: 28%;
+}
+div {
   display: flex;
-  flex-wrap: nowrap;
-  border: solid 1px;
+  justify-content: center;
 }

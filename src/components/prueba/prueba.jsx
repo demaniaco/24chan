@@ -48,7 +48,7 @@ function Prueba() {
                     value="on"
                     tabindex="8"
                   />
-                  Spoiler?
+                  Spoiler? jajaa
                 </label>
                 ]
               </span>

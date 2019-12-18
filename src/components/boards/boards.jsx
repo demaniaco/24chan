@@ -4,7 +4,7 @@ import "./estilo.css";
 const Boards = (props) => {
   return (
     <div>
-      <div className="padre">
+      <div className="padre1">
         <div className="p1">
           <ul>
             <h3>cultura Asiáticas</h3>

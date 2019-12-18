@@ -3,8 +3,8 @@ import "./estilo.css";
 
 function Prueba() {
   return (
-    <div>
-      <tbody class="padre1">
+    <div className="estiloformulario">
+      <tbody class="padre">
         <tr data-type="Name">
           <td>Name</td>
           <td>

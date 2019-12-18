@@ -5,7 +5,6 @@ import Prueba from "../components/prueba/prueba";
 export const TablonPage = ({ imagen }) => {
   return (
     <div>
-      <title>Page Title</title>
       <TopImagen></TopImagen>
       <Anuncio></Anuncio>
       <Prueba></Prueba>

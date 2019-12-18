@@ -1,11 +1,11 @@
 import React from "react";
 import "./estilo.css";
 
-function Boards() {
+const Boards = (props) => {
   return (
-    <div class="containe">
-      <div class="Boards">
-        <div class="p1">
+    <div>
+      <div className="padre">
+        <div className="p1">
           <ul>
             <h3>cultura Asiáticas</h3>
             <li>
@@ -22,7 +22,7 @@ function Boards() {
             </li>
           </ul>
         </div>
-        <div class="p2">
+        <div className="p1">
           <ul>
             <h3>intereses</h3>
             <li>
@@ -51,7 +51,7 @@ function Boards() {
             </li>
           </ul>
         </div>
-        <div class="p3">
+        <div className="p1">
           <ul>
             <h3>creatividad</h3>
             <li>
@@ -74,7 +74,7 @@ function Boards() {
             </li>
           </ul>
         </div>
-        <div class="p4">
+        <div className="p1">
           <ul>
             <h3>Sexy</h3>
             <li>
@@ -100,6 +100,8 @@ function Boards() {
       </div>
     </div>
   );
+
+  
 }
 
 export default Boards;

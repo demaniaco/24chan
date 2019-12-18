@@ -1,9 +1,10 @@
 import React from "react";
+import "./estilo.css";
 
 function Prueba() {
   return (
     <div>
-      <tbody>
+      <tbody class="padre1">
         <tr data-type="Name">
           <td>Name</td>
           <td>
@@ -40,7 +41,6 @@ function Prueba() {
             <td>
               <input id="postFile" name="upfile" type="file" tabindex="7" />
               <span class="desktop">
-                [
                 <label>
                   <input
                     type="checkbox"
@@ -48,9 +48,8 @@ function Prueba() {
                     value="on"
                     tabindex="8"
                   />
-                  Spoiler? jajaa
+                  Spoiler
                 </label>
-                ]
               </span>
             </td>
           </tr>

@@ -1,10 +1,11 @@
 import React from "react";
+import "./estilo.css";
 
 function Boards() {
   return (
-    <div className="containe">
+    <div class="containe">
       <div class="Boards">
-        <div class="lin">
+        <div class="p1">
           <ul>
             <h3>cultura Asiáticas</h3>
             <li>
@@ -21,7 +22,7 @@ function Boards() {
             </li>
           </ul>
         </div>
-        <div class="lin">
+        <div class="p2">
           <ul>
             <h3>intereses</h3>
             <li>
@@ -43,11 +44,14 @@ function Boards() {
               <a href="/Alternativesports">Alternative sports</a>
             </li>
             <li>
-              <a href="/youcutyourselfwithapieceofpaper"> you cut yourself with a piece of paper </a>
+              <a href="/youcutyourselfwithapieceofpaper">
+                {" "}
+                you cut yourself with a piece of paper{" "}
+              </a>
             </li>
           </ul>
         </div>
-        <div class="lin">
+        <div class="p3">
           <ul>
             <h3>creatividad</h3>
             <li>
@@ -70,7 +74,7 @@ function Boards() {
             </li>
           </ul>
         </div>
-        <div class="lin">
+        <div class="p4">
           <ul>
             <h3>Sexy</h3>
             <li>
